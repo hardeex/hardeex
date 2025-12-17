@@ -38,13 +38,14 @@ I'm a **results-driven software engineer** with a passion for turning ideas into
 
 Here are just a few examples of what I’ve built:
 
-* 🔐 **E-Wallet Platform:** A secure Laravel-based wallet system for payments, utility bills, and airtime purchase.
+* 🔐 **E-Wallet Platform:** A secure wallet system for payments, utility bills, and airtime purchase.
 * 🏦 **Bank Data Extractor:** Automates extraction of transactions from bank statements into structured Excel reports.
 * 📈 **Revenue Tracker:** Custom software to track multi-source revenue streams with analytics dashboards.
 * 🏢 **Company House API Tool:** Integration with the UK Company House API for corporate search and registration data.
 * 🏨 **Hotel Management System:** Check-in/out, booking, billing, inventory, and staff management in one system.
 * 📣 **Business Directory with Agent Support:** A listing platform with user registration, ad posting, and commission structure.
 * 📰 **News & Content Platform:** Built for content creators to publish articles with category filtering and commenting.
+* 🤖 **AI Text Generation Platform** – A real-time AI text generation model designed for content creation, automation, and intelligent writing assistance across multiple use cases.
 
 > 💡 *Want to see more? Browse through my pinned repositories below.*
 
@@ -60,9 +61,9 @@ I believe in sharing knowledge and building together. I contribute to open-sourc
 
 Looking to collaborate on a project, need a developer for hire, or just want to chat about software?
 
-📧 **Email me:** [webmasterjdd@gmail.com](mailto:webmasterjdd@gmail.com)
-💼 **LinkedIn :** *https://www.linkedin.com/in/jamiu-adewale-yusuf/*
-🌐 **Portfolio :** *http://dev.connectnesthub.com/*
+📧 **Email me:** [webmasterjdd@gmail.com](mailto:webmasterjdd@gmail.com) <br />
+💼 **LinkedIn:** [https://www.linkedin.com/in/jamiu-adewale-yusuf/](https://www.linkedin.com/in/jamiu-adewale-yusuf/) <br />
+🌐 **Portfolio:** [https://jamiuadewaleyusuf.com/](https://jamiuadewaleyusuf.com/) <br />
 
 ---
 
