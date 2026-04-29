@@ -1,205 +1,160 @@
-# Backend Engineer | Building Production Systems at Scale
+# Jamiu Adewale Yusuf
+### Full-Stack Engineer · React · Next.js · Laravel · TypeScript
 
-I architect and deploy **production-grade backend systems** that power real businesses across fintech, hospitality, and SaaS platforms. From building enterprise SSO infrastructure connecting 40+ applications to deploying multi-tenant hotel management systems serving 6 properties simultaneously—I solve complex backend challenges with scalable, maintainable solutions.
+I build and ship complete web products — from the component layer to the API, database, and deployment. Four years delivering production systems across enterprise platforms, marketplaces, fintech, hospitality, and government sectors. Equally at home owning a React frontend, architecting a Laravel backend, or doing both end-to-end.
+
+---
 
 ## What I Build
 
-**Enterprise Backend Architecture**  
-Specialized in **Laravel**, I design robust backend systems with focus on scalability, security, and performance. My expertise spans API development, microservices, database optimization, and cloud infrastructure.
+**Frontend Systems**
+React and Next.js applications with a strong focus on component architecture, SSR/SSG, performance, and UI systems at scale. I own the full frontend lifecycle — design handoff, component design, API integration, and production deployment.
 
-**Authentication & Authorization Systems**  
-Built enterprise-grade Single Sign-On (SSO) infrastructure connecting 40+ applications with centralized user management, role-based access control, and secure authentication flows.
+**Backend Architecture**
+Production-grade Laravel/PHP APIs, RESTful service design, authentication infrastructure, payment systems, and multi-tenant SaaS platforms. Scalable and secure from day one.
 
-**Multi-Tenant SaaS Platforms**  
-Architected backend systems powering 6 concurrent hotel properties using shared infrastructure—demonstrating expertise in tenant isolation, data security, and resource optimization.
+**Enterprise Authentication & SSO**
+Built a centralised Single Sign-On platform spanning 20+ internal applications — unified user management, token-based session flows, role-driven routing, and RBAC enforcement — reducing authentication overhead by over 40%.
 
-**Fintech & Payment Infrastructure**  
-Developed secure wallet systems, payment gateway integrations (Paystack), virtual account management, and transaction processing engines with comprehensive audit logging.
+**Fintech & Payment Infrastructure**
+Secure wallet systems, payment gateway integrations (Paystack, Flutterwave, Stripe), virtual account management, transaction processing engines, utility bill payments, airtime purchases, and comprehensive audit logging.
 
-**AI-Powered Systems**  
-Integrated AI text generation capabilities for automated policy creation, booking confirmations, and dynamic content generation across multiple platforms.
+**Multi-Tenant SaaS Platforms**
+Architected multi-tenant backend systems powering concurrent client environments with full tenant isolation, shared infrastructure, role-based access, and resource optimisation.
 
-**Data Processing & Automation**  
-Built systems for PDF data extraction, bank statement parsing, automated Excel reporting, and complex data transformation pipelines.
+**Data Processing & Automation**
+Built systems for PDF bank statement extraction, automated Excel report generation, transaction categorisation, and complex data transformation pipelines using Python.
 
----
-
-##  Technical Expertise
-
-### Backend Development
-**Primary:** Laravel (Production-level), PHP 8.x
-**API Design:** RESTful APIs, OAuth2, JWT, API Security, Rate Limiting
-
-### Database Engineering
-PostgreSQL, MySQL, Database Design, Query Optimization, Indexing Strategies, Multi-Tenant Architecture
-
-### Infrastructure & DevOps
-Git, Linux Server Administration, REST API Integration, Production Deployment, System Architecture
-
-### Integration & Automation
-Payment Gateways (Paystack, Flutterwave), Third-Party APIs, Web Scraping, PDF Processing, Data Automation
-
-### Frontend (When Required)
-Laravel Blade, React.js, Next.js, Alpine.js, Tailwind CSS, 
+**AI-Integrated Systems**
+Integrated AI text generation for automated content creation, booking confirmations, dynamic policy generation, and CMS workflows across multiple platforms.
 
 ---
 
-## Production Systems I've Built
+## Tech Stack
 
-### Enterprise SSO Infrastructure
-**Challenge:** 40+ separate applications requiring unified authentication  
-**Solution:** Built centralized Single Sign-On system with Laravel  
-**Tech Stack:** Laravel, PostgreSQL, Redis, OAuth2  
-**Impact:** Centralized user management across entire platform ecosystem
+```
+Frontend       React · Next.js · TypeScript · Tailwind CSS · HTML5 · CSS3 · Blade
+JavaScript     ES6+ · Alpine.js · Axios · Fetch API · React Hooks · React Query
+Backend        PHP · Laravel · RESTful API Design · Queue/Jobs · Service Architecture
+Database       MySQL · PostgreSQL · Query Optimisation · Schema Design · Indexing
+Auth           SSO · OAuth 2.0 · JWT · Laravel Sanctum/Passport · RBAC
+Infrastructure Git · Linux · Redis · VPS Administration · Background Jobs
+Integrations   Paystack · Flutterwave · Stripe · Cloudinary · AI APIs · SMS Gateways
+Testing        Jest · Cypress · PHPUnit
+Tooling        Python · Node.js · Chart.js · Agile/Scrum
+```
 
-###  Multi-Tenant Hotel Management Platform
-**Challenge:** Manage 6 hotel properties with isolated data and shared backend  
-**Solution:** Architected multi-tenant SaaS system with tenant isolation  
-**Tech Stack:** Laravel, PostgreSQL, Redis, Multi-tenancy  
-**Features:**
-- Reservation management across 6 properties
-- Inventory tracking and room allocation
-- Revenue reporting and analytics
-- Staff management and role-based access
-- AI-generated booking confirmations and policies
+---
 
-###  E-Wallet Payment System
-**Challenge:** Secure wallet system for payments and utility bills  
-**Solution:** Built production-ready payment infrastructure  
-**Tech Stack:** Laravel, PostgreSQL, Payment Gateway APIs  
-**Features:**
-- Secure transaction processing
-- Virtual account management
-- Utility bill payments
-- Airtime purchase
-- Transaction history and reconciliation
+## Production Systems
+
+### Enterprise SSO Platform
+**Stack:** Laravel · PostgreSQL · Redis · OAuth 2.0
+Centralised authentication infrastructure connecting 20+ internal applications. Built unified login UI, token-based session management, role-driven dashboard routing, and granular permission management — eliminating credential sprawl and reducing authentication overhead by over 40%.
+
+---
+
+### Multi-Tenant Hotel Management Platform
+**Stack:** Laravel · PostgreSQL · Redis
+Architected a SaaS backend powering multiple hotel properties simultaneously on shared infrastructure. Full tenant isolation with separate data boundaries, role-based staff access, and shared services.
+- Reservation management across concurrent properties
+- Room inventory tracking and allocation engine
+- Revenue reporting and analytics dashboards
+- Staff management with role-based access control
+- AI-generated booking confirmations and policy documents
+
+---
+
+### E-Wallet & Payment Infrastructure
+**Stack:** Laravel · PostgreSQL · Paystack · Flutterwave
+Production-ready fintech platform for consumer payments and utility services.
+- Secure wallet funding and peer transfers
+- Virtual account management and reconciliation
+- Utility bill payments and airtime purchase flows
+- Transaction history, audit logging, and dispute handling
+- Payment gateway abstraction layer for provider switching
+
+---
 
 ### Property Management Platform
-**Challenge:** End-to-end property management with tenant workflows  
-**Solution:** Complete property management system with subscription billing and Tenant Management  
-**Tech Stack:** Laravel, PostgreSQL, Stripe Integration  
-**Features:**
-- Multi-property management
-- Tenant onboarding and management
-- Subscription billing with proration
-- Document management (Cloudinary)
-- Revenue tracking and reporting
+**Stack:** Laravel · PostgreSQL · Stripe · Cloudinary
+End-to-end property and tenancy management system with subscription billing.
+- Multi-property management with owner dashboards
+- Tenant onboarding, document management, and communication workflows
+- Subscription billing with proration and plan switching
+- Revenue tracking and automated financial reporting
 
-###  Job Recommendation Engine
-**Challenge:** Intelligent job matching with external API integrations  
-**Solution:** Built recommendation system with fault-tolerant API consumption  
-**Tech Stack:** Laravel, MySQL, Redis, External APIs  
-**Features:**
-- Integration with 3 job APIs (Adzuna, Jooble, Workable)
-- Background job processing
-- JWT + OAuth2 authentication
-- Asynchronous recommendation generation
+---
+
+### Job Recommendation Engine
+**Stack:** Laravel · MySQL · Redis · External APIs
+Intelligent job matching system with fault-tolerant multi-source API consumption.
+- Integrated three job APIs simultaneously (Adzuna, Jooble, Workable)
+- Background job processing with Redis queues for async recommendation generation
+- JWT + OAuth 2.0 authentication layer
+- Fallback logic and graceful degradation on API failure
+
+---
+
+### Car Service Marketplace
+**Stack:** Laravel · PostgreSQL · React · Alpine.js · Chart.js
+Full-stack marketplace connecting vehicle owners with service specialists.
+- Dual-mode service request interface — photo-upload fault diagnosis and direct quote flow
+- Nine-factor specialist matching engine (proximity, availability, ratings, trust signals)
+- Real-time matching results page with filterable card layout
+- Admin dashboard with live Chart.js analytics and user management
+
+---
+
+### International Logistics & Booking Platform
+**Stack:** React · Next.js · Laravel
+Multilingual booking and routing platform for international freight and logistics.
+- Complex multi-step booking flows across global service regions
+- Dynamic route management and trip assignment UI
+- Multilingual interface with locale-aware content
+
+---
 
 ### Travel Agency Booking Platform
-**Challenge:** Complete booking system with payment integration  
-**Solution:** Full-stack travel booking and management platform  
-**Tech Stack:** Laravel, React, MySQL  
-**Features:**
-- Flight/hotel search and booking
-- Payment gateway integration
-- Booking management
-- User dashboard and history
-
-### Business Directory Platform (Backend)
-**Challenge:** Scalable directory with agent commission structure  
-**Solution:** API-first backend for business listings  
-**Tech Stack:** Laravel, PostgreSQL, REST API  
-**Features:**
-- Business listing management
-- Agent registration and commission tracking
-- Search and filtering APIs
-- Ad posting and promotion system
-
-### Wheelitin - Mechanic Marketplace
-**Challenge:** Connect vehicle owners with mechanics  
-**Solution:** Backend infrastructure for service marketplace  
-**Tech Stack:** Laravel, PostgreSQL  
-**Features:**
-- Mechanic registration and verification
-- Service request management
-- Location-based matching
-- Rating and review system
-
-###  Financial Data Automation Suite
-**Challenge:** Extract transaction data from bank statements  
-**Solution:** Automated PDF processing and Excel generation  
-**Tech Stack:** Python, PDF parsing libraries, Excel automation  
-**Features:**
-- Bank statement PDF extraction
-- Data validation and cleaning
-- Automated Excel report generation
-- Transaction categorization
-
-###  News Platform with AI Generation
-**Challenge:** Content management with AI-powered text generation  
-**Solution:** CMS with integrated AI content creation  
-**Tech Stack:** Laravel, AI API Integration  
-**Features:**
-- Article publishing and categorization
-- AI-generated content capabilities
-- Comment system
-- Editorial workflow
+**Stack:** Laravel · React · MySQL
+Complete booking and management platform for a travel agency.
+- Flight and hotel search, availability, and booking flows
+- Payment gateway integration and booking lifecycle management
+- User dashboard with booking history and itinerary management
 
 ---
 
-## 💡 What Sets My Work Apart
-
-**✅ Production-Ready:** I don't build prototypes—I deploy systems that serve real users and generate real revenue
-
-**✅ Scalable Architecture:** Multi-tenant designs, caching strategies, background jobs, and performance optimization from day one
-
-**✅ Security-First:** OAuth2, JWT, input validation, SQL injection prevention, and comprehensive audit logging
-
-**✅ Business-Focused:** I solve business problems, not just technical challenges—my code drives revenue and reduces costs
-
-**✅ Enterprise Experience:** SSO infrastructure, multi-tenant platforms, payment systems—experience that scales
+### Business Directory Platform
+**Stack:** Laravel · PostgreSQL · REST API
+API-first backend for a scalable business listings and agent network.
+- Business listing creation, management, and search APIs
+- Agent registration, commission tracking, and payout management
+- Ad posting, promotion system, and sponsored listing logic
 
 ---
 
-##  Open Source & Collaboration
-
-I believe in sharing knowledge and contributing to the developer community. Explore my repositories to see production-grade code examples, backend architecture patterns, and real-world problem-solving.
+### Financial Data Automation Suite
+**Stack:** Python · PDF Parsing · Excel Automation
+Automated data extraction and reporting pipeline for financial records.
+- Bank statement PDF parsing and structured data extraction
+- Automated Excel report generation with categorisation
+- Data validation, cleaning, and transformation pipelines
 
 ---
+
+### News Platform with AI Content Generation
+**Stack:** Laravel · AI API Integration
+CMS with integrated AI-assisted content creation for a digital news outlet.
+- Article publishing, categorisation, and editorial workflows
+- AI-generated content drafting and automated post creation
+- Comment system and reader engagement features
+
+---
+
+
 
 ## Let's Connect
 
-**Looking for a backend engineer who can:**
-- ✓ Architect scalable multi-tenant systems
-- ✓ Build production-ready payment infrastructure  
-- ✓ Deploy secure authentication systems
-- ✓ Integrate complex third-party APIs
-- ✓ Optimize database performance at scale
-- ✓ Take ownership of backend architecture
-
-**Open to remote backend engineering opportunities across Europe**
-
- **Email:** developeradewale8@gmail.com  
- **LinkedIn:** [linkedin.com/in/jamiu-adewale-yusuf/](https://www.linkedin.com/in/jamiu-adewale-yusuf/)  
- **Portfolio:** [jamiuadewaleyusuf.com](https://jamiuadewaleyusuf.com/)
-
----
-
-## ⚡ Current Focus
-
-🔹 Building enterprise-grade backend systems  
-🔹 Architecting microservices infrastructure  
-🔹 Optimizing production database performance  
-🔹 Deploying cloud-native applications
-
----
-
-###  Professional Note
-
-I don't just write code—I build **reliable systems that businesses depend on**. From SSO infrastructure connecting 40+ applications to multi-tenant platforms serving multiple clients simultaneously, I deliver backend solutions that scale, perform, and generate value.
-
-**Available for:** Backend Engineering Roles | API Development | Platform Architecture | Remote Opportunities (European Timezone)
-
----
-
-**Thanks for visiting. Explore my repositories to see how I solve real-world backend challenges.**
+**Email:** jamiuadewaleyusuf@gmail.com
+**Portfolio:** jamiuadewaleyusuf.com
+**LinkedIn:** linkedin.com/in/jamiu-adewale-yusuf
