@@ -1,160 +1,73 @@
-# Jamiu Adewale Yusuf
-### Full-Stack Engineer · React · Next.js · Laravel · TypeScript
+<h1 align="center">Hi, I'm Adewale  </h1>
+<h3 align="center">Full-Stack Engineer · React · Next.js · Laravel · TypeScript</h3>
 
-I build and ship complete web products — from the component layer to the API, database, and deployment. Four years delivering production systems across enterprise platforms, marketplaces, fintech, hospitality, and government sectors. Equally at home owning a React frontend, architecting a Laravel backend, or doing both end-to-end.
+<p align="center">
+I build and ship complete web products — from the component layer to the API, database, and deployment.<br/>
+<!-- 4 years delivering production systems across enterprise platforms, marketplaces, fintech, hospitality, and government sectors. -->
+</p>
 
----
-
-## What I Build
-
-**Frontend Systems**
-React and Next.js applications with a strong focus on component architecture, SSR/SSG, performance, and UI systems at scale. I own the full frontend lifecycle — design handoff, component design, API integration, and production deployment.
-
-**Backend Architecture**
-Production-grade Laravel/PHP APIs, RESTful service design, authentication infrastructure, payment systems, and multi-tenant SaaS platforms. Scalable and secure from day one.
-
-**Enterprise Authentication & SSO**
-Built a centralised Single Sign-On platform spanning 20+ internal applications — unified user management, token-based session flows, role-driven routing, and RBAC enforcement — reducing authentication overhead by over 40%.
-
-**Fintech & Payment Infrastructure**
-Secure wallet systems, payment gateway integrations (Paystack, Flutterwave, Stripe), virtual account management, transaction processing engines, utility bill payments, airtime purchases, and comprehensive audit logging.
-
-**Multi-Tenant SaaS Platforms**
-Architected multi-tenant backend systems powering concurrent client environments with full tenant isolation, shared infrastructure, role-based access, and resource optimisation.
-
-**Data Processing & Automation**
-Built systems for PDF bank statement extraction, automated Excel report generation, transaction categorisation, and complex data transformation pipelines using Python.
-
-**AI-Integrated Systems**
-Integrated AI text generation for automated content creation, booking confirmations, dynamic policy generation, and CMS workflows across multiple platforms.
+<p align="center">
+  <a href="mailto:jamiuadewaleyusuf@gmail.com"><img src="https://img.shields.io/badge/Email-jamiuadewaleyusuf%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://jamiuadewaleyusuf.com"><img src="https://img.shields.io/badge/Portfolio-jamiuadewaleyusuf.com-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/jamiu-adewale-yusuf"><img src="https://img.shields.io/badge/LinkedIn-jamiu--adewale--yusuf-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 ---
 
-## Tech Stack
+###  What I Build
 
-```
-Frontend       React · Next.js · TypeScript · Tailwind CSS · HTML5 · CSS3 · Blade
-JavaScript     ES6+ · Alpine.js · Axios · Fetch API · React Hooks · React Query
-Backend        PHP · Laravel · RESTful API Design · Queue/Jobs · Service Architecture
-Database       MySQL · PostgreSQL · Query Optimisation · Schema Design · Indexing
-Auth           SSO · OAuth 2.0 · JWT · Laravel Sanctum/Passport · RBAC
-Infrastructure Git · Linux · Redis · VPS Administration · Background Jobs
-Integrations   Paystack · Flutterwave · Stripe · Cloudinary · AI APIs · SMS Gateways
-Testing        Jest · Cypress · PHPUnit
-Tooling        Python · Node.js · Chart.js · Agile/Scrum
-```
+- **Frontend Systems** — React & Next.js apps with strong component architecture, SSR/SSG, and performance-first UI systems
+-  **Backend Architecture** — Production-grade Laravel/PHP APIs, RESTful services, and multi-tenant SaaS platforms
+-  **Enterprise Auth & SSO** — Centralised authentication spanning 20+ internal applications, RBAC, token-based sessions
+-  **Fintech & Payments** — Wallet systems, Paystack/Flutterwave/Stripe integrations, virtual accounts, transaction engines
+-  **Multi-Tenant SaaS** — Fully isolated multi-client platforms with shared infrastructure and resource optimisation
+-  **Data & Automation** — PDF bank statement extraction, automated Excel reporting, and data transformation pipelines in Python
+-  **AI-Integrated Systems** — AI text generation for content creation, booking confirmations, and CMS workflows
 
 ---
 
-## Production Systems
+###  Tech Stack
 
-### Enterprise SSO Platform
-**Stack:** Laravel · PostgreSQL · Redis · OAuth 2.0
-Centralised authentication infrastructure connecting 20+ internal applications. Built unified login UI, token-based session management, role-driven dashboard routing, and granular permission management — eliminating credential sprawl and reducing authentication overhead by over 40%.
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" />
+</p>
 
----
-
-### Multi-Tenant Hotel Management Platform
-**Stack:** Laravel · PostgreSQL · Redis
-Architected a SaaS backend powering multiple hotel properties simultaneously on shared infrastructure. Full tenant isolation with separate data boundaries, role-based staff access, and shared services.
-- Reservation management across concurrent properties
-- Room inventory tracking and allocation engine
-- Revenue reporting and analytics dashboards
-- Staff management with role-based access control
-- AI-generated booking confirmations and policy documents
-
----
-
-### E-Wallet & Payment Infrastructure
-**Stack:** Laravel · PostgreSQL · Paystack · Flutterwave
-Production-ready fintech platform for consumer payments and utility services.
-- Secure wallet funding and peer transfers
-- Virtual account management and reconciliation
-- Utility bill payments and airtime purchase flows
-- Transaction history, audit logging, and dispute handling
-- Payment gateway abstraction layer for provider switching
+**Integrations:** Paystack · Flutterwave · Stripe · Cloudinary · OAuth 2.0 · JWT · Laravel Sanctum/Passport
 
 ---
 
-### Property Management Platform
-**Stack:** Laravel · PostgreSQL · Stripe · Cloudinary
-End-to-end property and tenancy management system with subscription billing.
-- Multi-property management with owner dashboards
-- Tenant onboarding, document management, and communication workflows
-- Subscription billing with proration and plan switching
-- Revenue tracking and automated financial reporting
+###  Featured Production Systems
+
+| Project | Stack | Highlights |
+|---|---|---|
+| **Enterprise SSO Platform** | Laravel · PostgreSQL · Redis · OAuth 2.0 | Unified auth across 20+ apps, cut auth overhead by 40%+ |
+| **Multi-Tenant Hotel Platform** | Laravel · PostgreSQL · Redis | Reservations, inventory, RBAC, AI-generated confirmations |
+| **E-Wallet & Payment Infra** | Laravel · PostgreSQL · Paystack · Flutterwave | Wallets, virtual accounts, bill payments, audit logging |
+| **Property Management Platform** | Laravel · PostgreSQL · Stripe · Cloudinary | Subscription billing, tenancy workflows, financial reporting |
+| **Job Recommendation Engine** | Laravel · MySQL · Redis | 3-API job matching with fallback logic & async queues |
+| **Car Service Marketplace** | Laravel · PostgreSQL · React · Chart.js | 9-factor specialist matching, live analytics dashboard |
+| **Logistics & Booking Platform** | React · Next.js · Laravel | Multilingual, multi-step global booking & routing flows |
 
 ---
 
-### Job Recommendation Engine
-**Stack:** Laravel · MySQL · Redis · External APIs
-Intelligent job matching system with fault-tolerant multi-source API consumption.
-- Integrated three job APIs simultaneously (Adzuna, Jooble, Workable)
-- Background job processing with Redis queues for async recommendation generation
-- JWT + OAuth 2.0 authentication layer
-- Fallback logic and graceful degradation on API failure
+###  Let's Connect
 
----
+I'm always open to discussing interesting engineering problems, freelance/contract work, or full-time opportunities.
 
-### Car Service Marketplace
-**Stack:** Laravel · PostgreSQL · React · Alpine.js · Chart.js
-Full-stack marketplace connecting vehicle owners with service specialists.
-- Dual-mode service request interface — photo-upload fault diagnosis and direct quote flow
-- Nine-factor specialist matching engine (proximity, availability, ratings, trust signals)
-- Real-time matching results page with filterable card layout
-- Admin dashboard with live Chart.js analytics and user management
+ **jamiuadewaleyusuf@gmail.com** ·  **[jamiuadewaleyusuf.com](https://jamiuadewaleyusuf.com)** ·  **[LinkedIn](https://linkedin.com/in/jamiu-adewale-yusuf)**
 
----
-
-### International Logistics & Booking Platform
-**Stack:** React · Next.js · Laravel
-Multilingual booking and routing platform for international freight and logistics.
-- Complex multi-step booking flows across global service regions
-- Dynamic route management and trip assignment UI
-- Multilingual interface with locale-aware content
-
----
-
-### Travel Agency Booking Platform
-**Stack:** Laravel · React · MySQL
-Complete booking and management platform for a travel agency.
-- Flight and hotel search, availability, and booking flows
-- Payment gateway integration and booking lifecycle management
-- User dashboard with booking history and itinerary management
-
----
-
-### Business Directory Platform
-**Stack:** Laravel · PostgreSQL · REST API
-API-first backend for a scalable business listings and agent network.
-- Business listing creation, management, and search APIs
-- Agent registration, commission tracking, and payout management
-- Ad posting, promotion system, and sponsored listing logic
-
----
-
-### Financial Data Automation Suite
-**Stack:** Python · PDF Parsing · Excel Automation
-Automated data extraction and reporting pipeline for financial records.
-- Bank statement PDF parsing and structured data extraction
-- Automated Excel report generation with categorisation
-- Data validation, cleaning, and transformation pipelines
-
----
-
-### News Platform with AI Content Generation
-**Stack:** Laravel · AI API Integration
-CMS with integrated AI-assisted content creation for a digital news outlet.
-- Article publishing, categorisation, and editorial workflows
-- AI-generated content drafting and automated post creation
-- Comment system and reader engagement features
-
----
-
-
-
-## Let's Connect
-
-**Email:** jamiuadewaleyusuf@gmail.com
-**Portfolio:** jamiuadewaleyusuf.com
-**LinkedIn:** linkedin.com/in/jamiu-adewale-yusuf
+<p align="center"><i>Building complete, production-ready systems — end to end.</i></p>
